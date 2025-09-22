@@ -1,8 +1,7 @@
 # 🚀 Docker Explained In A Simple Way  
 
 [![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)  
-[![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](https://www.docker.com/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+[![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](https://www.docker.com/)   
 
 Project sederhana untuk memahami **Docker & Docker Compose** dengan contoh nyata:  
 - Flask web app  
@@ -63,4 +62,6 @@ docker compose down
 ```
 
 ### 🐳 Belajar Apa dari Proyek Ini?
-- 
+- Cara menulis DockerFile untuk aplikasi Python
+- Menjalankan banyak service sekaligus dengan docker compose
+- Integrasi sederhana Flask ↔ Redis
